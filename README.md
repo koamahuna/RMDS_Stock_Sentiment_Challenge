@@ -1,2 +1,2 @@
-# RMDS_Stock_Senitment_Challenge
+# RMDS_Stock_Sentiment_Challenge
 Team submission for RMDS Labs 2021 challenge
