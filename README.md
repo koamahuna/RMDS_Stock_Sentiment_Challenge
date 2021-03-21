@@ -11,7 +11,7 @@ This program was written in Google Colab and should run there easily. We recomme
 The first block of code includes the packages necessary. Running the first cell will fulfill any requirements needed for our script. 
 
 #A list of files included:
-I have included a python notebook compete with the code and analysis written by our team. Additionally, I have added the data file. 
+We have included a python notebook compete with the code and analysis written by our team. Additionally, we have added the data file. 
 It is in a zip folder to save space so you will unzip it and upload it into your preferred environment to run it.
 
 #Copyright and licensing:
